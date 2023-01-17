@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name is Trystan Knowles and I'm a data scientist with a background in science economics and a recent graduate of the Flatiron School. In my undergrad, I studied econonimcs, french, and music, and found my love of data science through its statistics heacy approach to solving real world problems. In many ways data science reminds me of studying French as every project you are effectively a translator between the computer and the problem at hand. But the wonderful thing about it is that it can apply to any field or subject of interest. Being able to do meaningful work on an area of interest is incredibly rewarding and I look forward to my next project.
+My name is Trystan Knowles and I'm a data scientist with a background in economics and a recent graduate of the Flatiron School. In my undergrad, I studied econonimcs, french, and music, and found my love of data science through its statistics heacy approach to solving real world problems. In many ways data science reminds me of studying French as every project you are effectively a translator between the computer and the problem at hand. But the wonderful thing about it is that it can apply to any field or subject of interest. Being able to do meaningful work on an area of interest is incredibly rewarding and I look forward to my next project.
 
 Check out my Image Classifier (on different styles of art), my text generator (on punk lyrics), and my human activity classifier (on exercise data from smartphones)!
 
