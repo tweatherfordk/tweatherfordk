@@ -4,6 +4,7 @@ My name is Trystan Knowles and I'm a data scientist with a background in science
 
 Check out my Image Classifier (on different styles of art), my text generator (on punk lyrics), and my human activity classifier (on exercise data from smartphones)!
 
+### What I'm Up To:
 - 🔭 I’m currently working on Advent of Code 2022!
 - 🌱  I’m also working on trying the Accelerometer project with new data and have been learning a ton of PostgreSQL and growing my Python stats/machine-learning knowledge!
 - 👯 Open to collaborate on data and machine learning projects that tell interesting stories and/or have a social impact
@@ -16,5 +17,16 @@ Check out my Image Classifier (on different styles of art), my text generator (o
 
 
 
-Connect with me:
-github linkedin medium 
+### Connect with me:
+
+<a href="https://github.com/tweatherfordk" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/trystan-knowles-9b98aa221/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@trystanwknowles" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+<a href="mailto:trystanwknowles@gmail" rel="nofollow"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
