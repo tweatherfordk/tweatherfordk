@@ -1,3 +1,5 @@
+![nyc-skyline](https://user-images.githubusercontent.com/110851861/212817815-492a2525-34e4-4598-9a12-de7a7babb820.jpeg)
+
 ### Hi there 👋
 
 My name is Trystan Knowles and I'm a data scientist with a background in science economics and a recent graduate of the Flatiron School. In my undergrad, I studied econonimcs, french, and music, and found my love of data science through its statistics heacy approach to solving real world problems. In many ways data science reminds me of studying French as every project you are effectively a translator between the computer and the problem at hand. But the wonderful thing about it is that it can apply to any field or subject of interest. Being able to do meaningful work on an area of interest is incredibly rewarding and I look forward to my next project.
